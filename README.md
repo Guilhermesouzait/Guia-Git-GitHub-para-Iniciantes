@@ -1,4 +1,3 @@
-# Guia-Git-GitHub-para-Iniciantes
 # Git e GitHub para Iniciantes 🚀
 
 Um guia prático para aprender Git e GitHub do zero, com explicações simples, exemplos e comandos para executar no Windows usando o Git Bash.
